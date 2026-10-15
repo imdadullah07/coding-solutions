@@ -10,7 +10,6 @@ int main()
     scanf("%[^\n]%*c", &s);
     
 printf("Hello, World!\n");
-printf("%s",s);
-    /* Enter your code here. Read input from STDIN. Print output to STDOUT */    
+printf("%s",s);   
     return 0;
 }
